@@ -9,5 +9,5 @@
 
 - [x] A transação pode ser do tipo débito que subtrai do total da conta
 - [x] A transação pode ser do tipo crédito que somará no total da conta
-- [ ] Deve ser possível identificar o usuário entre as requisições
-- [ ] O usuário só pode visualizar transações que ele próprio criou
+- [x] Deve ser possível identificar o usuário entre as requisições
+- [x] O usuário só pode visualizar transações que ele próprio criou
